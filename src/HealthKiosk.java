@@ -3,6 +3,7 @@ import static java.lang.Math.*;
 
 public class HealthKiosk {
     public static void main(String[] args) {
+            System.out.print("Welcome to Ashesi Health Kiosk")
 
        //Task 1
         char serviceDesk;
